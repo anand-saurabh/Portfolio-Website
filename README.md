@@ -1,4 +1,4 @@
-![](screenshot/Portfolio 1.PNG)
+![](screenshot/Portfolio1.PNG)
 
 ## Available Scripts
 
