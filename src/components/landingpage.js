@@ -12,11 +12,22 @@ class Landing extends Component {
       <hr/>
       <p> Java | Golang | Spring | SpringBoot | JavaScript | React | VueJS | Bootstrap | Cassandra | MongoDB </p>
       <p> Area of Interest : Cloud and Distributed Systems </p>
+      <div className="social-links">
 
-      </div>
-      </Cell>
-      </Grid>
-      </div>
+    {/* LinkedIn */}
+    <a href="https://www.linkedin.com/in/saurabh-anand-29081589/" rel="noopener noreferrer" target="_blank">
+      <i className="fa fa-linkedin-square" aria-hidden="true" />
+    </a>
+
+    {/* Github */}
+    <a href="https://github.com/anand-saurabh" rel="noopener noreferrer" target="_blank">
+      <i className="fa fa-github-square" aria-hidden="true" />
+    </a>
+    </div>
+    </div>
+    </Cell>
+    </Grid>
+  </div>
     )
   }
 }
