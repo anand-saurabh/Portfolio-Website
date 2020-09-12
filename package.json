@@ -1,7 +1,7 @@
 {
   "name": "portfoliowebsite",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "index.html",
   "private": true,
   "homepage": "https://anand-saurabh.github.io/portfoliowebsite",
   "dependencies": {
