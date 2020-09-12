@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anand-saurabh.github.io/portfolio-website",
+  "homepage": "https://github.com/anand-saurabh.github.io/mywebsite",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d portfolio-website",
+    "deploy": "gh-pages -d dist",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
