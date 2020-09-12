@@ -10,17 +10,17 @@ function App() {
         <Layout>
             <Header className="header-color" title="Saurabh Anand">
                 <Navigation>
-                    <Link to="/resume">Resume</Link>
-                    <Link to="/projects">Projects</Link>
-                    <Link to="/contact">Contact</Link>
-                    <Link to="/">Home</Link>
+                    <Link to="/portfoliowebsite/resume">Resume</Link>
+                    <Link to="/portfoliowebsite/projects">Projects</Link>
+                    <Link to="/portfoliowebsite/contact">Contact</Link>
+                    <Link to="/portfoliowebsite">Home</Link>
                 </Navigation>
             </Header>
             <Drawer title="Quick Link">
                 <Navigation>
-                <Link to="/resume">Resume</Link>
-                <Link to="/projects">Projects</Link>
-                <Link to="/contact">Contact</Link>
+                <Link to="/portfoliowebsite/resume">Resume</Link>
+                <Link to="/portfoliowebsite/projects">Projects</Link>
+                <Link to="/portfoliowebsite/contact">Contact</Link>
                 </Navigation>
             </Drawer>
             <Content>
