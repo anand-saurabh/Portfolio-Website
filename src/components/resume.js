@@ -21,7 +21,7 @@ class Resume extends Component {
 
             <h2 style={{paddingTop: '2em'}}>Saurabh Anand</h2>
             <h4 style={{color: 'grey'}}>Software Engineer </h4>
-            <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
+            <hr style={{borderTop: '3px solid #833fb2', width: '68%'}}/>
             <p><b>Key Highlights</b></p>
             <br></br>
             <p>
@@ -41,7 +41,7 @@ class Resume extends Component {
 * Well-versed in Computer Science Concepts - Algorithms, Data Structures, Object-Oriented Programming (OOP). Good Analytical and Problem-Solving skills.
 </b>
 </p>
-            <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
+            <hr style={{borderTop: '3px solid #833fb2', width: '68%'}}/>
             <h5>Address</h5>
             <p>3800 SW 34 St, Gainesville, Florida, 32608</p>
             <h5>Phone</h5>
@@ -50,7 +50,7 @@ class Resume extends Component {
             <p>saurabh789789@gmail.com</p>
             <h5>Web</h5>
             <p>https://anand-saurabh.github.io/portfoliowebsite/</p>
-            <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
+            <hr style={{borderTop: '3px solid #833fb2', width: '68%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
             <h2>Education</h2>
