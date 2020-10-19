@@ -156,7 +156,7 @@ class Projects extends Component {
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
               <CardTitle><b>Most Frequent Hashtags on Social Media</b></CardTitle>
               <CardText style={{'text-align': 'justify'}}>
-              This application finds the most frequent hashtags on Social Media like Twitter,Facebook. This application is capable of processing millions of tags in less than a sec.
+              This application finds the most frequent hashtags on Social Media like Twitter, Facebook. This application is capable of processing millions of tags in less than a sec.
               <br></br>
               <br></br>
 
